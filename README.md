@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Osmar 👋
 
-<!--
-**UserOsm0605/UserOsm0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Software** construyendo lógica escalable. *Cada commit cuenta.* 🚀
 
-Here are some ideas to get you started:
+## Sobre mí
+- 🎓 Estudio **Ingeniería de Software** en la Facultad de Ingeniería Electromecánica, Universidad de Colima
+- 📍 Soy de Manzanillo, Colima
+- 🌱 Actualmente estoy aprendiendo **Git**, **C++**, **Python** y **JavaScript**
+- 🎯 Mi meta es especializarme en **infraestructura en la nube** y **desarrollo backend**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis intereses
+- ☁️ Cloud Infrastructure (AWS)
+- 🐧 Sistemas Linux
+- ⚙️ Desarrollo backend
+
+## Tecnologías que quiero aprender
+- ☁️ AWS
+- 🐳 Docker
+- 🐧 Bash y administración de Linux
+- 🗄️ SQL y bases de datos
+- 📐 UML
+
+## Contacto
+- 📧 Oruiz0@ucol.mx
+- 💻 [Mi perfil de GitHub](https://github.com/UserOsm0605)
